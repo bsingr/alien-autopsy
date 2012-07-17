@@ -7,7 +7,7 @@ TextMate and Sublime Text compatible theme
 ### Clone the repository
 
     cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
-    git clone git://github.com/dpree/alien-autopsy.git Alian\ Autopsy
+    git clone git://github.com/dpree/alien-autopsy.git Alien\ Autopsy
 
 ### Usage
 
